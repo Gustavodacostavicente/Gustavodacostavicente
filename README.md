@@ -1,11 +1,5 @@
 ## Hello, World! 👋
 
-<div align="center">
-  <a href="https://github.com/Gustavodacostavicente">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavodacostavicente&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavodacostavicente&layout=compact&langs_count=6&theme=transparent"/>
-</div>
-  
 <div>
   <h1>💻 Tecnologias</h1>
   <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
