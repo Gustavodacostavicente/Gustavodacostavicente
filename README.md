@@ -2,7 +2,6 @@
 
 <div>
   <h1>💻 Tecnologias</h1>
-  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
   <div align="left">
     <div>
       <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
