@@ -1,36 +1,87 @@
-## Hello, World! 👋
+<div align="center">
 
-<div>
-  <h1>💻 Tecnologias</h1>
-  <div align="left">
-    <div>
-      <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
-      <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-100000?style=for-the-badge&logo=fastapi&logoColor=lightgreen">
-      <img alt="Flask" src="https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask&logoColor=black">
-      <img alt="Django" src="https://img.shields.io/badge/django-100000?style=for-the-badge&logo=django&logoColor=green">
-      <img alt="pytest" src="https://img.shields.io/badge/pytest-100000?style=for-the-badge&logo=pytest&logoColor=yellow">
-      <img alt="Airflow" src="https://img.shields.io/badge/airflow-100000?style=for-the-badge&logo=apache-airflow&logoColor=blue">
-      <img alt="MLFlow" src="https://img.shields.io/badge/mlflow-100000?style=for-the-badge&logo=mlflow&logoColor=blue">
-      <img alt="ZenML" src="https://img.shields.io/badge/zenml-100000?style=for-the-badge&logo=zenml&logoColor=purple">
-      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
-      <img alt="NodeJS" src="https://img.shields.io/badge/node.js-100000?style=for-the-badge&logo=node.js&logoColor=green">
-      <img alt="NestJS" src="https://img.shields.io/badge/nestjs-100000?style=for-the-badge&logo=nestjs&logoColor=red">
-      <img alt="Cypress" src="https://img.shields.io/badge/cypress-100000?style=for-the-badge&logo=cypress&logoColor=green">
-      <img alt="React" src="https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react&logoColor=blue">
-      <img alt="Jest" src="https://img.shields.io/badge/jest-100000?style=for-the-badge&logo=jest&logoColor=red">
-      <img alt="Docker" src="https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker&logoColor=blue">
-      <img alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux&logoColor=yellow">
-      <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-100000?style=for-the-badge&logo=kubernetes&logoColor=blue">
-      <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-100000?style=for-the-badge&logo=tensorflow&logoColor=orange">
-      <img alt="PyTorch" src="https://img.shields.io/badge/pytorch-100000?style=for-the-badge&logo=pytorch&logoColor=red">
-      <img alt="Java" src="https://img.shields.io/badge/java-100000?style=for-the-badge&logo=java&logoColor=red">
-      <img alt="Spring" src="https://img.shields.io/badge/spring-100000?style=for-the-badge&logo=spring&logoColor=green">
-      <img alt="C++" src="https://img.shields.io/badge/c++-100000?style=for-the-badge&logo=c%2b%2b&logoColor=blue">
-      <img alt="SQL" src="https://img.shields.io/badge/sql-100000?style=for-the-badge&logo=postgresql&logoColor=blue">
-      <img alt="NoSQL" src="https://img.shields.io/badge/nosql-100000?style=for-the-badge&logo=mongodb&logoColor=green">
-      <img alt="GCP" src="https://img.shields.io/badge/gcp-100000?style=for-the-badge&logo=google-cloud&logoColor=blue">
-      <img alt="AWS" src="https://img.shields.io/badge/aws-100000?style=for-the-badge&logo=amazon-aws&logoColor=orange">
-      <img alt="Azure" src="https://img.shields.io/badge/azure-100000?style=for-the-badge&logo=microsoft-azure&logoColor=blue">
-    </div>
-  </div>
+# Olá, sou Gustavo da Costa Vicente 👋
+**Machine Learning Engineer | GenAI · LLMs · RAG | MLOps · Computer Vision**
+
+**Desenvolvendo sistemas de IA do zero até produção** 🚀  
+📍 Joinville, Santa Catarina · Remote (GMT-3)
+
+</div>
+
+---
+
+Machine Learning Engineer com **mais de 5 anos** desenvolvendo sistemas de IA end-to-end, desde prototipagem até deploy em produção. Especializado em arquiteturas modernas com **LLMs e Generative AI**, com foco em **RAG pipelines**, **agents multi-agentes** e **guardrails**. Experiência sólida em **Computer Vision**, pipelines **ETL** e **MLOps**, entregando soluções escaláveis em Python com boas práticas de engenharia.
+
+## 🎯 Áreas de Foco
+**Generative AI · LLMs · RAG · Agents & Orchestration · Computer Vision · MLOps · Feature Engineering · CI/CD & Kubernetes**
+
+## 🏆 Destaques de Impacto
+
+**Automação de Atendimento com LLMs:**  
+Desenvolvimento de sistemas inteligentes utilizando ReAct Agents e Chain-of-Thought prompting para automatização de processos de atendimento ao cliente, reduzindo latência e aumentando precisão das respostas com técnicas anti-alucinação.
+
+**MLOps & Observabilidade em Escala:**  
+Implementação de práticas robustas de Machine Learning Operations, integrando versionamento de modelos, rastreamento de experimentos e observabilidade completa com logs estruturados para auditoria e debugging de pipelines em produção.
+
+**Computer Vision & Deep Learning:**  
+Desenvolvimento de sistemas com YOLO, EfficientNet e ResNet, otimizando modelos para CPU/GPU e implementando técnicas de interpretabilidade (GradCAM) para identificação e classificação de objetos com alta precisão.
+
+**RAG & Processamento de Documentos:**  
+Criação de pipelines RAG completos com OCR, embeddings semânticos e buscas híbridas (vetorial + semântica) para chatbots inteligentes e sistemas de recuperação de informações.
+
+**Infraestrutura & Governança de Dados:**  
+Arquitetura de pipelines de dados escaláveis com Airflow e PySpark, implementação de SRE practices com Kubernetes, CI/CD automation e governance frameworks para grandes volumes de dados transacionais.
+
+## 🛠️ Tech Stack
+
+- **Linguagens:** Python · TypeScript / Node · C++ · SQL
+- **Frameworks ML/AI:** LangChain · LangGraph · Hugging Face · PyTorch · TensorFlow · Keras · Scikit-learn
+- **LLMs & APIs:** OpenAI · Anthropic · GCP Vertex AI · Azure OpenAI
+- **Observabilidade & Eval:** LangSmith · Datadog · MLflow · Prometheus · Grafana
+- **Computer Vision:** YOLO · EfficientNet · ResNet · OpenCV
+- **APIs & Frameworks:** FastAPI · Flask · REST APIs · WebSocket · gRPC
+- **Vector DBs & Embeddings:** pgvector · FAISS · Chroma · Pinecone · Weaviate
+- **Banco de Dados:** PostgreSQL · MySQL · BigQuery · Databricks · DynamoDB
+- **Data Pipelines:** Apache Airflow · PySpark · Pandas · NumPy · Kafka
+- **Cloud & DevOps:** AWS (SageMaker, S3) · GCP (Cloud Run, BigQuery, Vertex AI) · Azure DevOps
+- **Orquestração:** Docker · Kubernetes · CI/CD (GitLab CI, Azure Pipelines, GitHub Actions)
+- **Ferramentas:** Git · SonarQube · Portainer · Hive · Kong · Jenkins
+
+## 🎓 Formação & Certificações
+
+**Educação:**
+- Bacharelado em **Engenharia Elétrica** (UDESC - Joinville, 2022)
+  - Áreas: Eletrônica, Eletrotécnica, Controle e Automação
+  - Atuação em laboratório, empresa júnior e monitoria acadêmica
+
+**Idiomas:**
+- 🇧🇷 **Português** - Fluente (Nativo)
+- 🇺🇸 **Inglês** - Intermediário (Leitura, escrita e escuta técnica)
+- 🇪🇸 **Espanhol** - Básico (Leitura e escrita)
+
+## 📊 Metodologias & Práticas
+
+**Engenharia de Software:** Scrum · Agile · Clean Code · SOLID Principles  
+**ML Practices:** Experiment Tracking · Model Versioning · Feature Stores · A/B Testing  
+**DevOps:** Infrastructure as Code · GitOps · SRE · Observability  
+**Testing:** Unit Tests · Integration Tests · pytest · CI/CD Automation
+
+## 📫 Conecte-se Comigo
+
+**Email:** gustavodacostavicente@gmail.com  
+**Telefone:** (47) 99930-3141  
+
+**Redes Profissionais:**
+- [LinkedIn](https://www.linkedin.com/in/gustavo-costa-vicente/)
+- [GitHub](https://github.com/Gustavodacostavicente)
+- [Kaggle](https://www.kaggle.com/bustavo)
+- [Portfólio Profissional](https://www.dropbox.com/scl/fi/ftd26v7qtkissca3826af/GV-Portfolio-2025-PT.pdf?rlkey=hkfte9npis23ejnuhuih45s9i&st=26k38mau&dl=0)
+
+---
+
+<div align="center">
+
+**Sempre aberto a conversar sobre IA, ML e arquitetura de sistemas escaláveis!** 🤝  
+*Explore meus repositórios e sinta-se à vontade para me chamar para uma conversa*
+
 </div>
