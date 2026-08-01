@@ -1,87 +1,56 @@
 <div align="center">
 
-# Olá, sou Gustavo da Costa Vicente 👋
-**Machine Learning Engineer || MLOps || Kaggle Expert**
+# Gustavo da Costa Vicente
+**Classical ML | MLOps | GenAI | Computer Vision | Kaggle Expert**
 
-**Desenvolvendo sistemas de IA do zero até produção** 🚀  
-Joinville, Santa Catarina · Remote (GMT-3)
+**Solving real problems, turning them into reality**  
+Brazil
 
 </div>
 
 ---
 
-Machine Learning Engineer com **mais de 5 anos** desenvolvendo sistemas de IA end-to-end, desde prototipagem até deploy em produção. Especializado em arquiteturas modernas com **LLMs e Generative AI**, com foco em **RAG pipelines**, **agents multi-agentes** e **guardrails**. Experiência sólida em **Computer Vision**, pipelines **ETL** e **MLOps**, entregando soluções escaláveis em Python com boas práticas de engenharia.
+ML Engineer with 5+ years shipping production AI systems at scale. I solve the hard problems: taking models from research to reliable, observable, cost-efficient systems. From infrastructure and MLOps to model deployment and inference optimization. I care about ROI and delivery viability. I ship what works.
 
-## 🎯 Áreas de Foco
-**Generative AI · LLMs · RAG · Agents & Orchestration · Computer Vision · MLOps · Feature Engineering · CI/CD & Kubernetes**
+## Focus
+**LLMs · Generative AI · RAG · GraphRAG · Agents & Orchestration · Computer Vision · MLOps · Feature Engineering · Infrastructure**
 
-## 🏆 Destaques de Impacto
+## Highlights
 
-**Automação de Atendimento com LLMs:**  
-Desenvolvimento de sistemas inteligentes utilizando ReAct Agents e Chain-of-Thought prompting para automatização de processos de atendimento ao cliente, reduzindo latência e aumentando precisão das respostas com técnicas anti-alucinação.
+**ReAct Agents for Ticket Automation**  
+Agent systems with Chain-of-Thought reasoning for automated customer support. 60%+ test coverage, hallucination mitigation with temperature tuning, full-stack observability with structured JSON logging and custom tracking. Implemented data drift detection to ensure model reliability over time.
 
-**MLOps & Observabilidade em Escala:**  
-Implementação de práticas robustas de Machine Learning Operations, integrando versionamento de modelos, rastreamento de experimentos e observabilidade completa com logs estruturados para auditoria e debugging de pipelines em produção.
+**Computer Vision at Scale**  
+PyTorch models with YOLO, EfficientNet, ResNet architectures optimized for CPU/GPU inference. GradCAM for interpretability. Object classification and detection in production environments.
 
-**Computer Vision & Deep Learning:**  
-Desenvolvimento de sistemas com YOLO, EfficientNet e ResNet, otimizando modelos para CPU/GPU e implementando técnicas de interpretabilidade (GradCAM) para identificação e classificação de objetos com alta precisão.
+**GenAI Platforms with RAG & GraphRAG**  
+End-to-end pipeline: semantic embeddings → vector search + semantic retrieval. Built intelligent GenAI platforms using LangChain and advanced RAG patterns. GraphRAG implementation for complex knowledge graph traversal and multi-hop reasoning.
 
-**RAG & Processamento de Documentos:**  
-Criação de pipelines RAG completos com OCR, embeddings semânticos e buscas híbridas (vetorial + semântica) para chatbots inteligentes e sistemas de recuperação de informações.
+**MLOps & Data Infrastructure**  
+Python-based MLflow for model versioning and reproducibility. Async FastAPI services for model serving and inference pipelines. Airflow + PySpark data pipelines. Kubernetes orchestration. SRE practices, CI/CD automation, governance frameworks.
 
-**Infraestrutura & Governança de Dados:**  
-Arquitetura de pipelines de dados escaláveis com Airflow e PySpark, implementação de SRE practices com Kubernetes, CI/CD automation e governance frameworks para grandes volumes de dados transacionais.
+## Tech Stack
 
-## 🛠️ Tech Stack
+- **Languages:** Python · JavaScript · Java · C++ · SQL
+- **LLM & AI:** LangChain · LangGraph · Hugging Face · PyTorch · TensorFlow · OpenCV
+- **Model APIs:** OpenAI · Anthropic · GCP Vertex AI · Azure OpenAI
+- **Observability:** Datadog · LangSmith · MLflow · Prometheus · Grafana · SonarQube
+- **Vector DBs:** pgvector · Pinecone · Neo4J
+- **Databases:** PostgreSQL · BigQuery · Databricks · DynamoDB
+- **Data & ETL:** Airflow · PySpark · Pandas · Kafka · Hive
+- **Cloud:** AWS · GCP · Azure
+- **DevOps:** Docker · Kubernetes · GitLab CI/CD · Azure Pipelines · GitHub Actions
+- **APIs:** FastAPI · gRPC · WebSocket · Kong
 
-- **Linguagens:** Python · TypeScript / Node · C++ · SQL
-- **Frameworks ML/AI:** LangChain · LangGraph · Hugging Face · PyTorch · TensorFlow · Keras · Scikit-learn
-- **LLMs & APIs:** OpenAI · Anthropic · GCP Vertex AI · Azure OpenAI
-- **Observabilidade & Eval:** LangSmith · Datadog · MLflow · Prometheus · Grafana
-- **Computer Vision:** YOLO · EfficientNet · ResNet · OpenCV
-- **APIs & Frameworks:** FastAPI · Flask · REST APIs · WebSocket · gRPC
-- **Vector DBs & Embeddings:** pgvector · FAISS · Chroma · Pinecone · Weaviate
-- **Banco de Dados:** PostgreSQL · MySQL · BigQuery · Databricks · DynamoDB
-- **Data Pipelines:** Apache Airflow · PySpark · Pandas · NumPy · Kafka
-- **Cloud & DevOps:** AWS (SageMaker, S3) · GCP (Cloud Run, BigQuery, Vertex AI) · Azure DevOps
-- **Orquestração:** Docker · Kubernetes · CI/CD (GitLab CI, Azure Pipelines, GitHub Actions)
-- **Ferramentas:** Git · SonarQube · Portainer · Hive · Kong · Jenkins
+## Education & Languages
 
-## 🎓 Formação & Certificações
+**Bachelor's in Electrical Engineering** (UDESC, 2022)  
+Electronics · Electrotechnics · Control and Automation
 
-**Educação:**
-- Bacharelado em **Engenharia Elétrica** (UDESC - Joinville, 2022)
-  - Áreas: Eletrônica, Eletrotécnica, Controle e Automação
-  - Atuação em laboratório, empresa júnior e monitoria acadêmica
+**Languages:** Portuguese (Native) · English (Technical) · Spanish (Basic)
 
-**Idiomas:**
-- 🇧🇷 **Português** - Fluente (Nativo)
-- 🇺🇸 **Inglês** - Intermediário (Leitura, escrita e escuta técnica)
-- 🇪🇸 **Espanhol** - Básico (Leitura e escrita)
+## Contact
 
-## 📊 Metodologias & Práticas
+gustavodacostavicente@gmail.com · (47) 99930-3141
 
-**Engenharia de Software:** Scrum · Agile · Clean Code · SOLID Principles  
-**ML Practices:** Experiment Tracking · Model Versioning · Feature Stores · A/B Testing  
-**DevOps:** Infrastructure as Code · GitOps · SRE · Observability  
-**Testing:** Unit Tests · Integration Tests · pytest · CI/CD Automation
-
-## 📫 Conecte-se Comigo
-
-**Email:** gustavodacostavicente@gmail.com  
-**Telefone:** (47) 99930-3141  
-
-**Redes Profissionais:**
-- [LinkedIn](https://www.linkedin.com/in/gustavo-costa-vicente/)
-- [GitHub](https://github.com/Gustavodacostavicente)
-- [Kaggle](https://www.kaggle.com/bustavo)
-- [Portfólio Profissional](https://www.dropbox.com/scl/fi/ftd26v7qtkissca3826af/GV-Portfolio-2025-PT.pdf?rlkey=hkfte9npis23ejnuhuih45s9i&st=26k38mau&dl=0)
-
----
-
-<div align="center">
-
-**Sempre aberto a conversar sobre IA, ML e arquitetura de sistemas escaláveis!** 🤝  
-*Explore meus repositórios e sinta-se à vontade para me chamar para uma conversa*
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/gustavo-costa-vicente/) · [GitHub](https://github.com/Gustavodacostavicente) · [Kaggle](https://www.kaggle.com/bustavo) · [Portfolio](https://www.dropbox.com/scl/fi/ftd26v7qtkissca3826af/GV-Portfolio-2025-PT.pdf?rlkey=hkfte9npis23ejnuhuih45s9i&st=26k38mau&dl=0)
