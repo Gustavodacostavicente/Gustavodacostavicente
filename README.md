@@ -51,6 +51,4 @@ Electronics · Electrotechnics · Control and Automation
 
 ## Contact
 
-gustavodacostavicente@gmail.com · (47) 99930-3141
-
 [LinkedIn](https://www.linkedin.com/in/gustavo-costa-vicente/) · [GitHub](https://github.com/Gustavodacostavicente) · [Kaggle](https://www.kaggle.com/bustavo) · [Portfolio](https://www.dropbox.com/scl/fi/ftd26v7qtkissca3826af/GV-Portfolio-2025-PT.pdf?rlkey=hkfte9npis23ejnuhuih45s9i&st=26k38mau&dl=0)
