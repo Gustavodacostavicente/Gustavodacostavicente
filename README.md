@@ -47,7 +47,7 @@ Python-based MLflow for model versioning and reproducibility. Async FastAPI serv
 **Bachelor's in Electrical Engineering** (UDESC, 2022)  
 Electronics · Electrotechnics · Control and Automation
 
-**Languages:** Portuguese (Native) · English (Technical) · Spanish (Basic)
+**Languages:** Portuguese (Native) · English (B2) · Spanish (Basic)
 
 ## Contact
 
