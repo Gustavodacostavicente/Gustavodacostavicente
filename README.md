@@ -1,10 +1,10 @@
 <div align="center">
 
 # Olá, sou Gustavo da Costa Vicente 👋
-**Machine Learning Engineer | GenAI · LLMs · RAG | MLOps · Computer Vision**
+**Machine Learning Engineer || MLOps || Kaggle Expert**
 
 **Desenvolvendo sistemas de IA do zero até produção** 🚀  
-📍 Joinville, Santa Catarina · Remote (GMT-3)
+Joinville, Santa Catarina · Remote (GMT-3)
 
 </div>
 
