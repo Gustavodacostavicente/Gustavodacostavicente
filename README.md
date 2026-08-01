@@ -15,8 +15,8 @@ ML Engineer with 7+ years shipping production AI systems at scale. I solve the h
 
 ## Highlights
 
-**ReAct Agents for Ticket Automation**  
-Agent systems with Chain-of-Thought reasoning for automated customer support. 60%+ test coverage, hallucination mitigation with temperature tuning, full-stack observability with structured JSON logging and custom tracking. Implemented data drift detection to ensure model reliability over time.
+**Building Production-Grade Agent Systems**  
+Agent systems with Chain-of-Thought reasoning for automated customer support. 60%+ test coverage, hallucination mitigation with temperature tuning, full-stack observability with structured JSON logging and custom tracking. Implemented data drift detection to ensure model reliability over time for a B2B platform.
 
 **Computer Vision at Scale**  
 PyTorch models with ResNet, YOLO, EfficientNet, architectures optimized for CPU/GPU inference. GradCAM for interpretability. Object classification and detection in production environments.
