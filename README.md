@@ -4,7 +4,7 @@
 **Classical ML | MLOps | GenAI | Computer Vision | Kaggle Expert**
 
 **Solving real problems, turning them into reality**  
-Brazil
+Brazil - Remote
 
 </div>
 
